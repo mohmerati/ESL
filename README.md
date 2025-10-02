@@ -39,6 +39,6 @@ We also include code to:
 1.  **Run the cells sequentially:** You can copy the codes in one notebook, and execute the code cells in the notebook from top to bottom.
 2.  **Modify parameters:** Adjust the parameters in the code cells (e.g., `M`, `R`, `alphas`, `T`, `episodes`) to explore different scenarios.
 3.  **Analyze results:** Examine the printed output and the generated plots to understand the performance of the different policies.
-4.  **Access saved files:** The results are saved to a CSV file and the plots are saved to your Google Drive in the specified directory (`/content/drive/MyDrive/Research/Phase 2/queue_plots_acc`).
+4.  **Access saved files:** The results are saved to a CSV file and the plots are saved to your Google Drive in the specified directory (`/content/drive/MyDrive/queue_plots_acc`).
 
 This notebook provides a framework for simulating and evaluating different server allocation policies in a multi-server, multi-queue system.
